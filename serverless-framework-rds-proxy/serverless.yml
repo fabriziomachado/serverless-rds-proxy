@@ -1,3 +1,5 @@
+org: fabriziocolombo
+app: rds-proxy
 service: serverless-framework-rds-proxy-example
 
 provider:
