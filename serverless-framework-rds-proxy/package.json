@@ -16,6 +16,6 @@
     "pg": "^8.5.1"
   },
   "devDependencies": {
-    "serverless-pseudo-parameters": "^2.5.0"
+    "serverless-pseudo-parameters": "^2.6.1"
   }
 }
